@@ -30,7 +30,7 @@
 - [Bug Bounty Report](#Bug-Bounty-Report)
 - [Bug Bounty & Writeups](#Bug-Bounty-&-Writeup)
 # Blog
-
+* [hacking smart contracts beginners](https://learn.block6.tech/hacking-smart-contracts-beginners-guide/)
 * [Reversing Ethereum Smart Contracts](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
 * [Emin Gün Sirer, professor in Cornell Tech’s IC3 lab focused on blockchain security.](http://hackingdistributed.com/) 
 * [ Phil Daian, grad student behind KEVM, Hydra, and other Ethereum academic projects](https://pdaian.com/blog/) 
