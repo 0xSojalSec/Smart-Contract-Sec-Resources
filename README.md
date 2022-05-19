@@ -1,4 +1,8 @@
 # Awesome-Smart-Contract-Security ![awesome](https://awesome.re/badge.svg) 
+<a href="https://twitter.com/0x0SojalSec">
+    <img src="https://img.shields.io/badge/author-@0x0SojalSec-orange.svg?style=square&logo=twitter">
+  </a>
+
 ![Screenshot](https://th.bing.com/th/id/R.80cdb5c38e582faaf1626fab2dd3f8ef?rik=aZBV%2f9sT%2fzcLzQ&pid=ImgRaw&r=0)
 
  
